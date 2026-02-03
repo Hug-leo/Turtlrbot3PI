@@ -1,0 +1,3 @@
+[console_scripts]
+robot_controller = agv_controller.diff_drive_controller:main
+
